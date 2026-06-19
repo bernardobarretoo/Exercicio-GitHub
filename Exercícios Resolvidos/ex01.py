@@ -3,7 +3,7 @@
 def ler_sequencia_inteiros():
     #solicito os números ao usuário
     entrada = input('Escreva aqui números INTEIROS separados por espaço: ')
-    #transformo essesnuúmeros solicitados inteiros e em uma lista
+    #transformo esses números solicitados inteiros e em uma lista
     lista_inteiros = [int(numero) for numero in entrada.split()]
     #retorno o print dessa lista 
     return print(lista_inteiros)
