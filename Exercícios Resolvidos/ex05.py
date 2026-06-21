@@ -1,0 +1,1 @@
+# 5. Dada uma lista com nomes, filtrar palavras maiores que 5 letras
