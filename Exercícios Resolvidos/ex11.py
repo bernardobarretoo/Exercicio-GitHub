@@ -1,0 +1,1 @@
+# 11. Dada uma lista com as notas de todos os alunos de uma turma, retorne a quantidade de alunos acima da média, que é 5
