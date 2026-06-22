@@ -1,0 +1,1 @@
+# 8. Faça uma lista com os números pares de uma lista de inteiros
